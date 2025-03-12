@@ -1,0 +1,39 @@
+[
+  {
+    "value": "no",
+    "synonyms": [
+      "no",
+      "without",
+      "hold the",
+      "skip the",
+      "remove",
+      "dont",
+      "don\u0027t"
+    ]
+  },
+  {
+    "value": "extra",
+    "synonyms": [
+      "extra",
+      "add",
+      "with extra",
+      "double"
+    ]
+  },
+  {
+    "value": "light",
+    "synonyms": [
+      "light",
+      "less",
+      "a little"
+    ]
+  },
+  {
+    "value": "heavy",
+    "synonyms": [
+      "heavy",
+      "lots of",
+      "more"
+    ]
+  }
+]

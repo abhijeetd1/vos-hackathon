@@ -1,0 +1,64 @@
+[
+  {
+    "value": "onion",
+    "synonyms": [
+      "onion",
+      "onions"
+    ]
+  },
+  {
+    "value": "cheese",
+    "synonyms": [
+      "cheese",
+      "slice of cheese"
+    ]
+  },
+  {
+    "value": "bacon",
+    "synonyms": [
+      "bacon"
+    ]
+  },
+  {
+    "value": "lettuce",
+    "synonyms": [
+      "lettuce"
+    ]
+  },
+  {
+    "value": "tomato",
+    "synonyms": [
+      "tomato"
+    ]
+  },
+  {
+    "value": "pickle",
+    "synonyms": [
+      "pickle"
+    ]
+  },
+  {
+    "value": "mayo",
+    "synonyms": [
+      "mayo"
+    ]
+  },
+  {
+    "value": "ketchup",
+    "synonyms": [
+      "ketchup"
+    ]
+  },
+  {
+    "value": "mustard",
+    "synonyms": [
+      "mustard"
+    ]
+  },
+  {
+    "value": "sauce",
+    "synonyms": [
+      "sauce"
+    ]
+  }
+]

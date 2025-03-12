@@ -1,0 +1,48 @@
+{
+    "collection": "orders",
+    "structure": {
+      "id": "string",
+      "session_id": "string",
+      "status": "string (completed|cancelled)",
+      "created_at": "timestamp",
+      "completed_at": "timestamp",
+      "total_amount": "number",
+      "items": [{
+        "item_id": "string",
+        "name": "string",
+        "quantity": "number",
+        "base_price": "number",
+        "customizations": ["string"],
+        "size": "string?",
+        "size_price": "number?",
+        "item_total": "number"
+      }]
+    },
+    "example": {
+      "id": "order123",
+      "session_id": "dialogflow-session-id-123",
+      "status": "completed",
+      "created_at": "2024-02-06T10:30:00Z",
+      "completed_at": "2024-02-06T10:35:00Z",
+      "total_amount": 15.97,
+      "items": [
+        {
+          "item_id": "burger1",
+          "name": "Big Mac",
+          "quantity": 1,
+          "base_price": 5.99,
+          "customizations": ["no onions", "extra cheese"],
+          "item_total": 5.99
+        },
+        {
+          "item_id": "drink1",
+          "name": "Coca Cola",
+          "quantity": 2,
+          "base_price": 1.99,
+          "size": "large",
+          "size_price": 1.00,
+          "item_total": 9.98
+        }
+      ]
+    }
+  }

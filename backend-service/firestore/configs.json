@@ -1,0 +1,39 @@
+{
+    "collection": "configs",
+    "documents": {
+      "order_limits": {
+        "structure": {
+          "order_limits": {
+            "drink": {
+              "default_max_quantity": "number",
+              "item_specific_limits": {
+                "[item_id]": "number"
+              }
+            },
+            "food": {
+              "default_max_quantity": "number",
+              "item_specific_limits": {
+                "[item_id]": "number"
+              }
+            }
+          }
+        },
+        "example": {
+          "order_limits": {
+            "drink": {
+              "default_max_quantity": 10,
+              "item_specific_limits": {
+                "2001": 10  // Example drink item ID
+              }
+            },
+            "food": {
+              "default_max_quantity": 10,
+              "item_specific_limits": {
+                "1001": 5   // Example food item ID
+              }
+            }
+          }
+        }
+      }
+    }
+  }

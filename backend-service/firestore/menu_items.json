@@ -1,0 +1,34 @@
+{
+    "collection": "menu_items",
+    "structure": {
+      "id": "string",
+      "name": "string",
+      "category": "string (food|drink)",
+      "base_price": "number",
+      "available": "boolean",
+      "has_size": "boolean",
+      "sizes": {
+        "small": "number",
+        "medium": "number",
+        "large": "number"
+      },
+      "customizations": {
+        "removable": ["string"],
+        "addable": ["string"],
+        "modifiable": ["string"]
+      }
+    },
+    "example": {
+      "id": "123",
+      "name": "Big Mac",
+      "category": "food",
+      "base_price": 5.99,
+      "available": true,
+      "has_size": false,
+      "customizations": {
+        "removable": ["lettuce", "onions", "pickles"],
+        "addable": ["cheese", "bacon"],
+        "modifiable": ["sauce"]
+      }
+    }
+  }

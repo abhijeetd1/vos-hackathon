@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "b8743549-d016-42a7-9210-79d4fcc1267a",
+    "data": [
+      {
+        "text": "can i order ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "834bdec6-2fd6-4106-a57d-ddb1132c6baf",
+    "data": [
+      {
+        "text": "can i order a ",
+        "userDefined": false
+      },
+      {
+        "text": "pizza",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "35c51694-329f-4730-9490-8d2c89a8f4da",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburger",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76fba79f-ade9-4da9-bbdf-03f434d5f6d3",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7483c0d0-bc94-40bd-9c44-fe23f6f33b26",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "31a6ae54-30a1-4eee-9d44-4e3168358cbe",
+    "data": [
+      {
+        "text": "I would like to get ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa4a678c-4b78-4aaa-a0ee-f93fb74add4a",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "burger",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2cf7cb52-27ae-4136-a43a-c340adcc489f",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ae33680-7ee5-4797-a426-507cde529926",
+    "data": [
+      {
+        "text": "can i order a ",
+        "userDefined": false
+      },
+      {
+        "text": "bigmac",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bacon",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "367804b1-0c21-43af-86b9-21eb65a1813e",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburger",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mayo",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afc30072-0f43-408d-8fba-7583675d13a8",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchiken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c9ef6736-c910-4d56-ab5d-699719eb8c5d",
+    "data": [
+      {
+        "text": "Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "daa4edfd-e79b-4b79-8bd8-f08950af64fd",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburger",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7854c0e3-41ed-4463-81eb-0734137b27da",
+    "data": [
+      {
+        "text": "I\u0027d like a ",
+        "userDefined": false
+      },
+      {
+        "text": "bigmac",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0a6ef50-e6d2-491c-9184-fa8dc6533f05",
+    "data": [
+      {
+        "text": "i would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchiken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " with ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f81c86d-e48f-4080-83fb-03ed3a340d99",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mchickens",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "973ec7fb-0a1f-428f-9777-4e68bf94da57",
+    "data": [
+      {
+        "text": "I would like to have a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7c1b478-7ccb-4ca5-97af-c3ce516d6368",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburger",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c15f642f-c0f1-46f5-a4bb-e4e9eccf80f4",
+    "data": [
+      {
+        "text": "can i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburger",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fa453b4-3285-450f-a6b6-bd772a01ed69",
+    "data": [
+      {
+        "text": "give me ",
+        "userDefined": false
+      },
+      {
+        "text": "couple",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " of ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchickens",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "11fca2f1-39b1-4242-ade6-d9b418e108cf",
+    "data": [
+      {
+        "text": "can i have ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a9b9cbcf-9ad7-4682-b24e-05f76dc9892d",
+    "data": [
+      {
+        "text": "can i have ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "big mac",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ae55fa-c452-4842-ab85-16bbe4080002",
+    "data": [
+      {
+        "text": "can i have a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fa8b7ebc-6a68-49ad-98ea-2b31770e306a",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " hot and spicy ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchickens",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "acd269e8-2b22-43d4-90a8-18508d0ba58a",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "4",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " piece ",
+        "userDefined": false
+      },
+      {
+        "text": "mcnuggets",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4c0eac2a-511a-4daa-ad5b-2ec475dc780f",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "four",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchickens",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "56f0653d-b24a-4e0c-8ea9-f17efef12039",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "10c2af0a-c713-450e-bdbb-ccfab42c840c",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " piece chicken ",
+        "userDefined": false
+      },
+      {
+        "text": "mcnuggets",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ac84e31b-d1fe-415d-8d62-9d41b004411f",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcf4a0c0-da41-4655-8dd5-bdf0ecd12d11",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " hot and spicy ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "de3617d0-4013-403b-bc55-82ddd9b22546",
+    "data": [
+      {
+        "text": "\"Can I get a ",
+        "userDefined": false
+      },
+      {
+        "text": "Big Mac",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": "?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc1a34b2-a293-4dce-abb8-1f62923fab03",
+    "data": [
+      {
+        "text": "\"I also want a ",
+        "userDefined": false
+      },
+      {
+        "text": "Quarter Pounder with Cheese",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ", no pickles.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c2be4e40-4a43-499c-892f-2c86ea12ef2d",
+    "data": [
+      {
+        "text": "\"Let me get ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " more ",
+        "userDefined": false
+      },
+      {
+        "text": "McChickens",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": ".\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "686232da-414b-413a-9420-d0d0cf23ea25",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f00f4241-8176-4916-ae48-ccfb6c7e8fbb",
+    "data": [
+      {
+        "text": "can i get ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      },
+      {
+        "text": " french ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2dca5cd4-0bbd-4339-ba62-b30539d66a87",
+    "data": [
+      {
+        "text": "\"Can I add another ",
+        "userDefined": false
+      },
+      {
+        "text": "Big Mac",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " to that?\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3a45ce3b-576c-420c-9a67-1eef218d5d44",
+    "data": [
+      {
+        "text": "\"Make that ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " fries please.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3981a210-9eaa-4953-ba4d-516fe41fc7f3",
+    "data": [
+      {
+        "text": "\"Add a ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " piece ",
+        "userDefined": false
+      },
+      {
+        "text": "Chicken McNuggets",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " with sweet and sour sauce.\"",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ddb5054-7b12-47de-b856-3d9a0a611830",
+    "data": [
+      {
+        "text": "Can I get ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "McChickens",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " and a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " fries?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

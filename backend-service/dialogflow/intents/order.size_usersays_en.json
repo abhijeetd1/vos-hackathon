@@ -1,0 +1,200 @@
+[
+  {
+    "id": "a1be8bf8-c5be-4920-be52-2a4a02d6b080",
+    "data": [
+      {
+        "text": "large",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08e1875c-96bd-4d6b-9d11-df59c7f110ec",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "baf11c37-56a5-442d-ba8b-7d607593136d",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c7f7591e-0a6f-4e8f-84b3-af318e4754f8",
+    "data": [
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fee23892-ecbd-4065-9d78-cd69e78690ca",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79d632a8-277d-44e3-9b1c-3a54e7b8a96d",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fdf17155-b3ca-451c-b1d1-7cea1d077439",
+    "data": [
+      {
+        "text": "I want ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0d85b946-b440-4288-9370-c1f315ba4644",
+    "data": [
+      {
+        "text": "large",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4bf362de-6f11-4e1c-9d63-37c6c231ecd9",
+    "data": [
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6c09310f-abbb-4d20-9309-0e869e041e8a",
+    "data": [
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,329 @@
+[
+  {
+    "id": "757af6aa-66b4-4345-bf85-30a5426d759d",
+    "data": [
+      {
+        "text": "light",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "mayo",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f1b4bfd-3897-40bb-b1a3-9a8aa41eba20",
+    "data": [
+      {
+        "text": "less",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22d1b0fe-5bf2-4763-871b-5ced8778fdb5",
+    "data": [
+      {
+        "text": "can you keep bit ",
+        "userDefined": false
+      },
+      {
+        "text": "light",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": true
+      },
+      {
+        "text": " on the ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ddc832ed-aa83-435f-a01b-59a274f8c2f6",
+    "data": [
+      {
+        "text": "yes i ",
+        "userDefined": false
+      },
+      {
+        "text": "dont",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": true
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      },
+      {
+        "text": " on that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d10e5b7-0fb2-4ab1-af6b-6323a0f354fe",
+    "data": [
+      {
+        "text": "i ",
+        "userDefined": false
+      },
+      {
+        "text": "dont",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": true
+      },
+      {
+        "text": " want ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      },
+      {
+        "text": " in that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1339de2e-3dfe-4c04-8950-276202fb707d",
+    "data": [
+      {
+        "text": "can you make it ",
+        "userDefined": false
+      },
+      {
+        "text": "without",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "onion",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1b60cce-cc49-4d69-b930-db0d6d52b9e1",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9283255d-03d5-4401-8f0d-48c7f55016eb",
+    "data": [
+      {
+        "text": "without",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "lettuce",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "20313643-3a30-4520-a0bf-71dd2d5e9813",
+    "data": [
+      {
+        "text": "add ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "sauce",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": true
+      },
+      {
+        "text": " to it",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d77cb7b2-985b-49bb-a84d-0c0b83902eaa",
+    "data": [
+      {
+        "text": "make it with ",
+        "userDefined": false
+      },
+      {
+        "text": "no",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "onions",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "aa8362c3-27b4-4b40-81d0-85d69b2f1757",
+    "data": [
+      {
+        "text": "can you add ",
+        "userDefined": false
+      },
+      {
+        "text": "extra",
+        "meta": "@modification-type",
+        "alias": "modification-type",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheese",
+        "meta": "@food-components",
+        "alias": "food-components",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,444 @@
+[
+  {
+    "id": "2eeab133-f323-42b2-98de-bdade1484fa2",
+    "data": [
+      {
+        "text": "can you add ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eecae246-4fdc-4a99-9db2-a2f7747b38ab",
+    "data": [
+      {
+        "text": "can i have ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f34380e1-cd57-40e1-847f-e530e6e71705",
+    "data": [
+      {
+        "text": "can i have ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afb2ec01-0a79-4834-aa7d-6d14709b7eb2",
+    "data": [
+      {
+        "text": "can i have ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ac0c562-6541-458e-9445-6cf1bf15f9bf",
+    "data": [
+      {
+        "text": "please add 2 ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b211429d-76b1-4532-ae5d-9a30d5e6ff96",
+    "data": [
+      {
+        "text": "please add one ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd7b2066-e3ec-443f-9f43-7c9267898aa7",
+    "data": [
+      {
+        "text": "please add a ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2a10c308-7533-4dd3-885f-05ed11beb0e6",
+    "data": [
+      {
+        "text": "can you add ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "30435472-da56-444d-a3d9-3d7d7bf330b7",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54364942-6758-400b-8782-df1d5f1cb508",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "medium",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "frappe",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9b66780e-e507-4e75-87e4-e2b7cd84ecc4",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "large",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "frappe",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38a7caa4-30f5-476e-ba32-257a62defd17",
+    "data": [
+      {
+        "text": "can i get a ",
+        "userDefined": false
+      },
+      {
+        "text": "frappee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "38b15edd-71c8-43db-b875-a77a6e49cd2d",
+    "data": [
+      {
+        "text": "I would like ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1c77c9ba-31f2-47c7-9a5e-32803a14a02d",
+    "data": [
+      {
+        "text": "I would like a ",
+        "userDefined": false
+      },
+      {
+        "text": "small",
+        "meta": "@drink-size",
+        "alias": "drink-size",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

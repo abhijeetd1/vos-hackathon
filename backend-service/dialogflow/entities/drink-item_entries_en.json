@@ -1,0 +1,34 @@
+[
+  {
+    "value": "coffee",
+    "synonyms": [
+      "coffee",
+      "black coffee"
+    ]
+  },
+  {
+    "value": "frappe",
+    "synonyms": [
+      "frappe"
+    ]
+  },
+  {
+    "value": "tea",
+    "synonyms": [
+      "tea",
+      "hot tea"
+    ]
+  },
+  {
+    "value": "drink",
+    "synonyms": [
+      "drink",
+      "soda",
+      "coke",
+      "sprite",
+      "pepsi",
+      "diet coke",
+      "diet pepsi"
+    ]
+  }
+]

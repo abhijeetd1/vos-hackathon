@@ -1,0 +1,66 @@
+[
+  {
+    "value": "McChicken",
+    "synonyms": [
+      "McChicken",
+      "mcchickens",
+      "mcchicken",
+      "mchicken",
+      "mchickens"
+    ]
+  },
+  {
+    "value": "Big Mac",
+    "synonyms": [
+      "Big Mac",
+      "bigmac",
+      "bigmacs"
+    ]
+  },
+  {
+    "value": "McNuggets",
+    "synonyms": [
+      "McNuggets"
+    ]
+  },
+  {
+    "value": "Happy Meal",
+    "synonyms": [
+      "Happy Meal",
+      "happy meal"
+    ]
+  },
+  {
+    "value": "Fries",
+    "synonyms": [
+      "Fries",
+      "french fries"
+    ]
+  },
+  {
+    "value": "Happy Meal",
+    "synonyms": [
+      "Happy Meal"
+    ]
+  },
+  {
+    "value": "Cheeseburger",
+    "synonyms": [
+      "Cheeseburger",
+      "burger"
+    ]
+  },
+  {
+    "value": "McCrispy",
+    "synonyms": [
+      "McCrispy"
+    ]
+  },
+  {
+    "value": "Quarter pounder with cheese",
+    "synonyms": [
+      "Quarter pounder with cheese",
+      "quarter pounder"
+    ]
+  }
+]

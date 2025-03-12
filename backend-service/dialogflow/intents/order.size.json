@@ -1,0 +1,73 @@
+{
+  "id": "1b98692b-ad38-4d60-884e-1ad6f218c776",
+  "name": "order.size",
+  "auto": true,
+  "contexts": [
+    "ongoing-order",
+    "awaiting-size"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 5
+        },
+        {
+          "name": "awaiting-size",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "813aed4b-2203-4e4e-97dc-33a6dd6d0805",
+          "name": "drink-size",
+          "required": true,
+          "dataType": "@drink-size",
+          "value": "$drink-size",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "e3cfa7a2-9d56-44d5-80b8-4f0b8216aaca",
+          "name": "food-item",
+          "required": false,
+          "dataType": "@food-item",
+          "value": "$food-item",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "ea43444e-aa04-42a8-b70f-09522c76d7a5",
+    "data": [
+      {
+        "text": "sorry I need only ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "cheeseburger",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": ". Please remove the other ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ff8b2944-2538-4db3-9e90-63d1a57f8ef9",
+    "data": [
+      {
+        "text": "oops can you take ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "drink",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      },
+      {
+        "text": " out. I only need ",
+        "userDefined": false
+      },
+      {
+        "text": "one",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bca7de8e-c911-4e07-9c99-a418ad849fec",
+    "data": [
+      {
+        "text": "Oops, I meant to remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "McChicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": ", not the ",
+        "userDefined": false
+      },
+      {
+        "text": "Big Mac",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": ".",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f073bbe-b447-4c10-bf77-b31d21a4fe14",
+    "data": [
+      {
+        "text": "I apologies could you please remove ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4d065051-825d-4273-b0ac-6ffd40518f9f",
+    "data": [
+      {
+        "text": "can i remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "big mac",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      },
+      {
+        "text": " please. I dont want that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4a3bdf28-87b1-4dae-8e62-70940ac2bca0",
+    "data": [
+      {
+        "text": "sorry please remove ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c66e83b-1f05-45bd-9985-1e072122ada3",
+    "data": [
+      {
+        "text": "i dont want ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62e0896d-e8d4-4bf5-9e99-6940b5eff904",
+    "data": [
+      {
+        "text": "please remove hot ",
+        "userDefined": false
+      },
+      {
+        "text": "tea",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cc7fb646-ae69-4b72-85dd-b69483554b4c",
+    "data": [
+      {
+        "text": "remove ",
+        "userDefined": false
+      },
+      {
+        "text": "frappee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a8e457dd-2860-4231-809d-9aa903218d78",
+    "data": [
+      {
+        "text": "can you remove the small ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7c0e5437-77c4-40fe-a7aa-7ebbd0d7dd4a",
+    "data": [
+      {
+        "text": "please remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "frappe",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      },
+      {
+        "text": " i dont want that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c11e0ce2-e975-4cd1-a0f3-ef4a3d77eb54",
+    "data": [
+      {
+        "text": "sorry can you remove ",
+        "userDefined": false
+      },
+      {
+        "text": "coffee",
+        "meta": "@drink-item",
+        "alias": "drink-item",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f96064ab-9246-4bfc-9a7e-f83f9e6d4106",
+    "data": [
+      {
+        "text": "I dont want ",
+        "userDefined": false
+      },
+      {
+        "text": "mcnuggets",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "466abf41-2355-4ec4-947a-4007d5bf43cb",
+    "data": [
+      {
+        "text": "can you remove mcnuggets i dont want that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a868bd19-3356-47ab-96fe-287dc0f1e37c",
+    "data": [
+      {
+        "text": "can you remove small ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "79faad31-2d80-4e3a-976d-8b0546dd3f4e",
+    "data": [
+      {
+        "text": "can you remove large ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3ef33b0e-e5e3-4eb8-98a2-bc9ad3f6b2f6",
+    "data": [
+      {
+        "text": "can you remove ",
+        "userDefined": false
+      },
+      {
+        "text": "1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " from the order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "62751064-4443-4ead-9c22-8b1e6a929b95",
+    "data": [
+      {
+        "text": "I dont want ",
+        "userDefined": false
+      },
+      {
+        "text": "bigmac",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " please remove that",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "44e8b172-235d-44e2-81ba-a4e19a3e8bc6",
+    "data": [
+      {
+        "text": "I dont want ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dd579330-b67c-44a2-9610-bda928b9685f",
+    "data": [
+      {
+        "text": "sorry I dont want ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " can you remove that please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51c4ab74-ffa8-4d3e-8e28-63af718d645a",
+    "data": [
+      {
+        "text": "please remove the ",
+        "userDefined": false
+      },
+      {
+        "text": "mcchicken",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6ab97f97-3ebf-4591-9b5b-bff79167cf0f",
+    "data": [
+      {
+        "text": "can i remove ",
+        "userDefined": false
+      },
+      {
+        "text": "fries",
+        "meta": "@food-item",
+        "alias": "food-item",
+        "userDefined": true
+      },
+      {
+        "text": " please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

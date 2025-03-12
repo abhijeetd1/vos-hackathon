@@ -1,0 +1,118 @@
+{
+  "id": "e9d9d556-b12c-434f-906a-0820e23015f7",
+  "name": "order.food",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "ongoing-order",
+          "lifespan": 8
+        }
+      ],
+      "parameters": [
+        {
+          "id": "e31ed191-8e00-439e-82ae-25dfd3f62227",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "1",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many do you want?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "0a5de717-9874-46d4-b189-8ca1179a34fa",
+          "name": "food-item",
+          "required": false,
+          "dataType": "@food-item",
+          "value": "$food-item",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Sorry I didnt catch that could you repeat the item please"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "37fa9ff2-8cb2-4faf-8f1f-288fac2f70cc",
+          "name": "modification-type",
+          "required": false,
+          "dataType": "@modification-type",
+          "value": "$modification-type",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c6aeb8df-3ec4-4d12-9064-35b2ca52e641",
+          "name": "food-components",
+          "required": false,
+          "dataType": "@food-components",
+          "value": "$food-components",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "203e4dcd-68c5-4ced-befd-730815d98a7d",
+          "name": "drink-size",
+          "required": false,
+          "dataType": "@drink-size",
+          "value": "$drink-size",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

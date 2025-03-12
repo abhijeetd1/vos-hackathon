@@ -1,0 +1,171 @@
+[
+  {
+    "id": "c567ef9f-cd41-4f04-a370-4b84b28f3912",
+    "data": [
+      {
+        "text": "can i make an order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b64a1b14-943c-431e-bb95-355f093ba844",
+    "data": [
+      {
+        "text": "I am ready to order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "67c4ff42-a404-4c24-8b04-e996cb2c58b5",
+    "data": [
+      {
+        "text": "Can i order food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76727f5b-87af-4c1a-bd77-578ed7691ce1",
+    "data": [
+      {
+        "text": "Hi I would like to place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fe266bce-df7c-4c71-8e88-859e8ae12a42",
+    "data": [
+      {
+        "text": "I want to order something",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "47b6591f-82a3-445a-ad98-9f3e6d2fbbe2",
+    "data": [
+      {
+        "text": "place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a3a7cf74-be45-4d5b-b3c3-35aed740fa70",
+    "data": [
+      {
+        "text": "new order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1e89177c-c583-43da-940e-6825fc47610c",
+    "data": [
+      {
+        "text": "I\u0027m ready to order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b0ea26f6-6cdf-46ef-8968-8c609d8059bf",
+    "data": [
+      {
+        "text": "I want a cheeseburger, no onions, extra ketchup.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5dc7b5df-c511-45a0-ad19-d1943b118101",
+    "data": [
+      {
+        "text": "I\u0027d like a large coffee",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a0eec698-d4ab-4fc8-bc28-b27f268bdc2d",
+    "data": [
+      {
+        "text": "Can I get [item]?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9f87bc13-ee50-48f0-b14c-387a735a40e1",
+    "data": [
+      {
+        "text": "I\u0027d like to order some food.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "51752913-e112-47b6-a9b8-5262163385fa",
+    "data": [
+      {
+        "text": "I want to place an order.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

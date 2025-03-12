@@ -1,0 +1,6 @@
+fastapi>=0.68.0
+functions-framework==3.*
+pydantic>=1.8.0
+typing-extensions>=4.0.0
+python-multipart==0.0.6
+firebase-admin>=6.2.0
