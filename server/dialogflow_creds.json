@@ -1,9 +1,9 @@
 {
   "type": "service_account",
-  "project_id": "burner-abhdey0",
-  "private_key_id": "250796b0fda5151c8e65821003f8d404ac125c1c",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCf9vt5n6Bstbtu\nuXsBZVejeMval38Bndhza2GxRg+C1ooCfSXENJViCYEptqGWWYh097GG5X8A//Vy\nbCXsM+XiKwqId/tfMC8JVPnWYvix+9VKNvv4E1/DtAzQxKM73jDtfvbDvNtIwSuF\nvpcZpXyC/hkmrCiTG0X3h1RyXpSGbBh6onX9qjrx8moslQCzgZFJXsPZFXLwvJzm\nSFDVJPzsjVs1UVDj5/ZyFBKNmox7INuN0u2fbErUejscY/+JYhlPsUKnrrgIVXDi\njPd14emRwyptlcXr8x5gUPNqi7SlwYPh+p5DkQ6WtVoXn8nOaTfEUxeP4zFVLiHj\nJtYqmuvvAgMBAAECggEAMdLPI+Qspv95qDScU+R5RgDfWa/bDqlX3CdDj+AW/7UL\n2leZdkG8j4MPWGs6bCZp4qitgiskAi83B1MZArdtcCLgzn20bUMIO3tcr8I23NTn\n64wxseRy7PU9Ep9Uilab3bUwben6UPBdunQRAxtwqyoyskFoB920TrM3gcHkt/Mg\nI0rFlPsYkmRMQ7NilL/ZGnLukpw4tAK6vc3BII2+DkKUla6bWCT3hbRunJZ4ngod\nrh4If0x+tZJ3VDFZNEgaoqvxQa5HLJvv4tBvQ5D3DNGqlNwE5IMvhTntGjXa/ErN\nt3/igVdMMishBEqQSdNd4q3isdDeDjNngyRt6hSnUQKBgQDKgUyYzh4k2grbZSTv\nqxa+JDLL0O9gCfvC9xe76wurKPf8Y7M9wfJxIDHZ56+m1CBIDcCYNxH/C465Q5RB\nJOgRGcXD5f7/+qKkuUmSPuaad7XSwRWbR0+k6OjF0WxWYv9mp0PqJ8Hlslh9Zc40\nCe/lO59WaVUXa4ElfsIUeVdTHwKBgQDKONVUVnkpKActwmG40/bLUNCuI0QDKLpV\nOk/60+cCKgNcHn/uaiyoG3x4Lqk1kmZyWcFSSXUNiPtl+MiNdF50aFQttoL6xMAX\nZLyMyfgygQOGG5jINK5cJVmDX3U/shi7FVU9DqMTlBZ9hpM9tbrJF8oEVpmkD566\n4cUhOdadMQKBgFgtbyYGcnfHffzEkQ3PaOrIplm7k9A06KyfnXUVRxJzl3AOFclp\nf2ElDK/+w6yYJ6pYWqmtKSfuZ2pic9bd9DMmDshbiOr7vwCNMez9eLqAL+sian8f\n0R1U0a75nvwKxX10jg0S3MphG0kXIG/md9BQYvRkj0nQZP7nsCjsIUsvAoGAF/s9\ncU7/912D3G1c4WphriLbXItaGXXPAyRzL6/JiXwqAdasHT4CJb18uVPvRScjdxQl\n1PhZJU3FYoZqYjwWp39n3DP0vIBwt1V+9sNM59Bc9p53M+brdooHX4kGgpNAU49o\nGGGP/VZmhGRdOcg/anGjx3ftqIMhs8/qbNJLHUECgYAfJZ3l9pPRIWMg9hoDIMeK\n7ne+ZoaEDd2nQj9GyG2R1Gn3JotVShs5/ovmsTF/FSDlr7rS7efFq0TrUoMF5j9Y\nDL5sj9n6jxf0TSLlaF6A4o1IfuAigp4ZOv+2YW+V63XtsA3RY3D78cot+P6EJpGP\nvo53hqWmFLly6mB6mQ/Z7g==\n-----END PRIVATE KEY-----\n",
-  "client_email": "mcd-dialogflow@burner-abhdey0.iam.gserviceaccount.com",
+  "project_id": "",
+  "private_key_id": "",
+  "private_key": "",
+  "client_email": "",
   "client_id": "116514945428006602834",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
