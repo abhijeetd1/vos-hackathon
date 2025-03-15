@@ -68,7 +68,7 @@ def get_menu_item(item_name: str):
         logger.info(f"Attempting to fetch menu item: {item_name}")
         menu_ref = db.collection('menu_items')
         
-        # Get all menu items and filter case-insensitively
+        # Get all menu items and filter case-insensitively updated
         menu_items = menu_ref.get()
         for doc in menu_items:
             item_data = doc.to_dict()
