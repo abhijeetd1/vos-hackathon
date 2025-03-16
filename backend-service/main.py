@@ -123,7 +123,7 @@ def get_order_summary(session_id: str):
     Now includes proper customization details in the response.
     """
     try:
-        # Always return a summary structure, even if empty
+        # Always return a summary structure, even if empty updated
         summary = {
             "items": [],
             "total_amount": 0,
