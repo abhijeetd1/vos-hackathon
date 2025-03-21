@@ -35,7 +35,7 @@ except ValueError:
         logger.error(f"Error initializing Firebase: {str(e)}")
         raise
 
-# Get Firestore client for mcd-vos database
+# Get Firestore client for mcd-vos database updated connection details
 db = firestore.Client(
     project='burner-abhdey0',
     database='mcd-vos'
